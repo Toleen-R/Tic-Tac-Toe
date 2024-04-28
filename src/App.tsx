@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 
+
 //-----------------------Define types for player and board---------------------
 type Player = 'X' | 'O' | null;
 type Board = Player[];
